@@ -1,3 +1,3 @@
 FROM alpine
 
-RUN apk add --no-cache curl git grep make
+RUN apk add --no-cache coreutils curl git grep make
